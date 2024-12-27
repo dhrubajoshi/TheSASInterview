@@ -1,6 +1,6 @@
 # The SAS Interview by Dhruba Joshi
 
-[![Book Cover](book_cover.png)](TheSASInterview_12_27_24.pdf)
+[![Book Cover](book_cover.png)](TheSASInterview_12_27_2024.pdf)
 
 
 ## About the Book
@@ -10,7 +10,7 @@ Book with collection of commonly appearing question in SAS technical interviews,
 
 You can view and download the current version of the book below. 
 
-Version: 12-27-2024 -- [View Book](TheSASInterview_12_27_24.pdf)
+Version: 12-27-2024 -- [View Book](TheSASInterview_12_27_2024.pdf)
 
 ## Contact
 
